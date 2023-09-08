@@ -1,4 +1,4 @@
-// ==UserScript==
+// ==edgenuity==
 // @name         Edgenuity Master Controller v0.4
 // @namespace    http://tampermonkey.net/
 // @version      0.4
